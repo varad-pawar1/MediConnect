@@ -11,6 +11,13 @@ That’s a great start, Varad! Here's a polished version of your `README.md` fil
 
 ---
 
+## 🌐 Live Demo
+
+* 🛠️ **Admin Panel**: [https://mediconnect-2-mzlz.onrender.com/](https://mediconnect-2-mzlz.onrender.com/)
+* 👥 **User & Doctor Panel**: [https://mediconnect-1-4w6u.onrender.com/](https://mediconnect-1-4w6u.onrender.com/)
+
+---
+
 ## 🚀 Features
 
 - 🔐 Role-based authentication: **User**, **Doctor**, **Admin**
