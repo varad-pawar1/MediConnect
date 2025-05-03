@@ -47,24 +47,24 @@ That’s a great start, Varad! Here's a polished version of your `README.md` fil
 ## 📂 Project Structure
 
 ```
-
 mediConnect/
-├── admin/ # Admin panel
-│ ├── public/
-│ ├── src/
-│ └── .env
-├── frontend/ # User & Doctor panel
-│ ├── public/
-│ ├── src/
-│ └── .env
-├── backend/ # API and server logic
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── utils/
-│ └── .env
+├── admin/                  # Admin panel
+│   ├── public/
+│   ├── src/
+│   └── .env
+├── frontend/               # User & Doctor panel
+│   ├── public/
+│   ├── src/
+│   └── .env
+├── backend/                # API and server logic
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   └── .env
 └── README.md
+
 
 ````
 
