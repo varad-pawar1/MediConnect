@@ -42,6 +42,7 @@ That’s a great start, Varad! Here's a polished version of your `README.md` fil
 - Google App (Gmail SMTP) for password reset email service
 - JWT for secure authentication
 
+
 ---
 
 ## 📂 Project Structure
@@ -64,9 +65,7 @@ mediConnect/
 │   ├── utils/
 │   └── .env
 └── README.md
-
-
-````
+```
 
 ---
 
