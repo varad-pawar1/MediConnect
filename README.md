@@ -147,6 +147,9 @@ npm run dev
 ---
 ![screencapture-mediconnect-1-4w6u-onrender-login-2025-05-03-09_21_10](https://github.com/user-attachments/assets/12d112d0-cf41-4bd0-adb6-23bda0f4230f)
 ---
+![screencapture-mediconnect-1-4w6u-onrender-my-appointments-2025-05-03-10_00_26](https://github.com/user-attachments/assets/4d839871-0ef1-433a-bdaf-44e4e995aecc)
+---
+![screencapture-mediconnect-1-4w6u-onrender-my-profile-2025-05-03-10_00_45](https://github.com/user-attachments/assets/9529f9dd-5692-42f2-a53a-6261461ae074)
 
 ---
 
