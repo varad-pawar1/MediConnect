@@ -133,6 +133,14 @@ npm run dev
 * 🛠️ **Admin Panel** – Control over all users, doctors, appointments, and platform settings
 
 ---
+## 📸 Screenshots Admin
+![screencapture-mediconnect-2-mzlz-onrender-admin-dashboard-2025-05-03-10_04_45](https://github.com/user-attachments/assets/54b6505d-2677-4689-8ca9-770f88578e27)
+![screencapture-mediconnect-2-mzlz-onrender-all-appointments-2025-05-03-10_04_57](https://github.com/user-attachments/assets/b3093b13-94f4-40c6-8c0f-8cdc0c82f986)
+![screencapture-mediconnect-2-mzlz-onrender-add-doctor-2025-05-03-10_05_07](https://github.com/user-attachments/assets/b5756bec-5139-40fc-a056-7851a932b37e)
+![screencapture-mediconnect-2-mzlz-onrender-add-health-info-2025-05-03-10_05_15](https://github.com/user-attachments/assets/77ad71fa-a6a6-497c-b425-f6abe78aaba9)
+![screencapture-mediconnect-2-mzlz-onrender-doctor-list-2025-05-03-10_05_27](https://github.com/user-attachments/assets/04cad2b4-d1e2-4d79-9dbc-ad30fe539422)
+![screencapture-mediconnect-2-mzlz-onrender-healtInfo-list-2025-05-03-10_05_46](https://github.com/user-attachments/assets/f38becff-4486-4e45-b3fa-7365fb613b60)
+
 
 ## 📸 Screenshots Frontend
 ![screencapture-mediconnect-1-4w6u-onrender-2025-05-03-09_19_35](https://github.com/user-attachments/assets/9cf91b29-675c-4c08-9159-3f3cc9e043c5)
