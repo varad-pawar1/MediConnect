@@ -141,6 +141,13 @@ npm run dev
 ![screencapture-mediconnect-2-mzlz-onrender-doctor-list-2025-05-03-10_05_27](https://github.com/user-attachments/assets/04cad2b4-d1e2-4d79-9dbc-ad30fe539422)
 ![screencapture-mediconnect-2-mzlz-onrender-healtInfo-list-2025-05-03-10_05_46](https://github.com/user-attachments/assets/f38becff-4486-4e45-b3fa-7365fb613b60)
 
+## 📸 Screenshots Doctor
+![screencapture-mediconnect-2-mzlz-onrender-doctor-dashboard-2025-05-03-10_11_24](https://github.com/user-attachments/assets/a405af21-170b-416f-b12c-01c89cf8a0ea)
+![screencapture-mediconnect-2-mzlz-onrender-doctor-appointments-2025-05-03-10_11_35](https://github.com/user-attachments/assets/ed2e5874-b0ce-4406-b72c-382c93789e2c)
+![screencapture-mediconnect-2-mzlz-onrender-doctor-profile-2025-05-03-10_11_55](https://github.com/user-attachments/assets/70c22257-090a-499e-9fff-40b377820220)
+
+
+
 
 ## 📸 Screenshots Frontend
 ![screencapture-mediconnect-1-4w6u-onrender-2025-05-03-09_19_35](https://github.com/user-attachments/assets/9cf91b29-675c-4c08-9159-3f3cc9e043c5)
