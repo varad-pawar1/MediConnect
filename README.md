@@ -1,6 +1,8 @@
 That’s a great start, Varad! Here's a polished version of your `README.md` file with corrections for grammar, formatting, clarity, and a few minor improvements:
 # MediConnect
+---
 MediConnect is a full-stack healthcare web application that enables users to book doctor appointments based on specialization, with role-based access for Users, Doctors, and Admins. It features secure authentication, appointment management, cloud-based image uploads, and a responsive UI built with the MERN stack.
+
 ---
 
 ### ✅ Final `README.md` (Ready for GitHub)
